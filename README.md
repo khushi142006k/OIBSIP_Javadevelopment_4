@@ -114,12 +114,3 @@ Wrong Answers : 0
 Score : 3/3
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to modify and expand it!
-
----
-
-*Developed with ❤️ as part of the Oasis Infobyte Java Development Internship.*
