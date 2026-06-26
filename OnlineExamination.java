@@ -5,8 +5,8 @@ public class OnlineExamination {
 
     static Scanner sc = new Scanner(System.in);
 
-    static String username = "exam";
-    static String password = "1221";
+    static String username = "admin";
+    static String password = "1234";
 
     public static void main(String[] args) {
 
